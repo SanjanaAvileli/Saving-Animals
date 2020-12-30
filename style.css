@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#myTitle{
+ width: 50vw;
+ height: 60vw;
+ position: sticky;
+ left: 50vw;
+ right: 50vw;
+}
